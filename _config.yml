@@ -67,6 +67,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/bdqjay"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:youremail@example.com"
 
 footer:
   links:
@@ -76,6 +79,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/bdqjay"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:youremail@example.com"
 
 defaults:
   # _posts
